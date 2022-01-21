@@ -16,6 +16,4 @@ A layer on top of Node.js and the browser to integrate into Base and Link Text.
 
 - weave.js for the backend postgres database on AWS
 - next.js?
-- crypto
-- fs
-- net
+- breadth.js
